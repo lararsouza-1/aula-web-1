@@ -1,0 +1,33 @@
+body{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+ul{
+    background-color: blue;
+    overflow: hidden;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+li a{
+    display: block;
+    color: blueviolet;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: background-color 0.3s color 0.3s ;
+}
+li a:hover{
+    background-color: azure;
+    color: white;
+}
+.active-link{
+    background-color:black;
+    color: rgb(131, 128, 128);
+}

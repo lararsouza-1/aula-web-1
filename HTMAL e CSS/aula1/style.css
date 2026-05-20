@@ -1,0 +1,26 @@
+*{
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    background-color: rgb(75, 93, 109);
+    color: aliceblue;
+}
+p{
+    background-color: rgb(33, 33, 197);
+    color: aliceblue;
+    width: 100px;
+    text-align: center;
+}
+img{
+    width:150px;
+}
+.p1{
+    text-align: right;
+}
+.p2{
+    text-align:left ;
+}
+#imagem{
+    text-align: center;
+}

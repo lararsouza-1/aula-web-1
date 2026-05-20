@@ -1,0 +1,17 @@
+:root{
+    --primary-by-color: #000000;
+    --primary-color: #ffffff;
+}
+body{
+    background-color: var(--primary-by-color);
+}
+p{
+    background-color:#4d0303;
+    border: 10px;
+    border-style:solid ;
+    border-color: black;
+    color: #ffffff;
+}
+h2{
+    color: #ffffff;
+}
